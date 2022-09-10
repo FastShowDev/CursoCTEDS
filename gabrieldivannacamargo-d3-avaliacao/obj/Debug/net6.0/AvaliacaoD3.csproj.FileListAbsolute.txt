@@ -1,0 +1,44 @@
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.exe
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.deps.json
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.runtimeconfig.json
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.pdb
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.AssemblyReference.cache
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.AssemblyInfoInputs.cache
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.AssemblyInfo.cs
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.CoreCompileInputs.cache
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.CopyComplete
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/refint/AvaliacaoD3.dll
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.pdb
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.genruntimeconfig.cache
+C:/Users/cteds_05/Documents/GabrielDiVannaCamargo-d3-avaliacao/AvaliacaoD3/obj/Debug/net6.0/ref/AvaliacaoD3.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.deps.json
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.runtimeconfig.json
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/AvaliacaoD3.pdb
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.AssemblyReference.cache
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.GeneratedMSBuildEditorConfig.editorconfig
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.AssemblyInfoInputs.cache
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.AssemblyInfo.cs
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.CoreCompileInputs.cache
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.csproj.CopyComplete
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/refint/AvaliacaoD3.dll
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.pdb
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/AvaliacaoD3.genruntimeconfig.cache
+/home/Gabriel/Documentos/Programas C#/CursoCTDEs/D3/AvaliacaoD3/obj/Debug/net6.0/ref/AvaliacaoD3.dll
